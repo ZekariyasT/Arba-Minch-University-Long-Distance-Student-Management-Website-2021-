@@ -1,0 +1,108 @@
+<div id="divFooter" style="background: linear-gradient(to right,#00093c,#2d0b00);border-color: black; margin-top: auto; height: 300px; font-size:20px">
+	<div class="so">
+		<div class="col">
+   			<img src="../images/logo.jpg" class="logo">
+   			<p>Paramid Collage <br><br>Distance Education Managment System</p>
+   		</div>
+   		<div class="coll"><h4 style="">Social Media links</h4>
+   			    <a href="https://www.facebook.com/ArbaMinchUniversityCCD/"><img src="../images/fab.png" class="f"></a>
+   				<a href="https://www.courseseye.com/colleges-and-universities/277-arba-minch-university.aspx"><img src="../images/ggg.jpg"class="f"></a>
+   				<a href="https://www.youtube.com/c/ArbaMinchUniversitytv/videos"><img src="../images/youtub.jpg"class="f"></a>
+   				<a href="https://t.me/arbaminch_university"><img src="../images/teleg.jpg"class="f"></a>
+   				<a href="https://twitter.com/ArbaMinch_Univ?"><img src="../images/twii.jpg"class="f"></a>
+   			
+   		</div>
+   		<div class="col1">
+   			<h3>Office<div class="underline"><span></span></div> </h3>
+   			<p>Paramid Collage</p>
+   			<p class="email-id">PCdistance@gmail.com</p>
+   			<h4>+2519-13425332</h4>
+   		</div>
+   		<div class="col2">
+   			<h3>Other Links <div class="underline"><span></span></div></h3>
+   			<ul style="text-decoration: none; list-style: none; color: #fff;">
+   				<li style="margin-bottom: 12px;"><a style="color: #fff; text-decoration: none; " href="location.php">Location</a></li >
+   				<li style="margin-bottom: 12px;"><a style="color: #fff; text-decoration: none; "href="developers.php">Developers</a></li>
+   				<li style="margin-bottom: 12px;"><a style="color: #fff; text-decoration: none; "href="">Features</a></li>
+   				
+   			</ul>
+   		</div>
+
+
+
+
+	</div>
+
+<hr>
+<p class="copy">&copy; Copyright 2015 Computer Science 5th Year,Section B,Group5 Students | All Rights Reserved</p>
+	     
+</div>
+<style type="text/css">
+	#so{
+		width: 85%;
+
+	}
+	.logo{
+		width: 80px;
+		border-radius: 50%;
+		float: left;
+		margin-left: 100px;
+		margin-top: 30px;
+	}
+	.col p{ 
+		  padding-top: 100px;
+          margin-left: -180px;
+          float: left;
+          margin-top: 50pxS;
+	}
+	.col1{
+		margin-left: 30px;
+		float: left;
+		margin-top: 30px;
+		
+
+	}
+	.col2{
+		margin-left: 40px;
+		float: left;
+		margin-top: 30px;
+		
+
+	}
+	.coll{
+		margin-left: -100px;
+		float: right;
+		margin-right: 40px;
+		margin-top: 30px;
+	}
+	.coll h4{
+		margin-left: 20px;
+		
+
+	}
+	.coll .f{
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+	text-align: center;
+	line-height: 40px;
+	font-size: 20px;
+	color: #000;
+	background: #fff;
+	margin-right: 10px;
+
+
+	}
+	hr{
+	width: 90%;
+	border: 0;
+	border-bottom: 1px solid #ccc;
+	margin: 20px auto;
+
+}
+.copy{
+	text-align: center;
+}
+
+
+</style>
